@@ -1,0 +1,9 @@
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\bin\Debug\SimpleSketch.exe.config
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\bin\Debug\SimpleSketch.exe
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\bin\Debug\SimpleSketch.pdb
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.csprojResolveAssemblyReference.cache
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.Form1.resources
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.Properties.Resources.resources
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.csproj.GenerateResource.Cache
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.exe
+C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.pdb
