@@ -7,3 +7,10 @@ C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\S
 C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.csproj.GenerateResource.Cache
 C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.exe
 C:\Users\rusty_000\Documents\Visual Studio 2012\Projects\SE3353SimpleSketchLab\SimpleSketch\obj\Debug\SimpleSketch.pdb
+E:\TeamCityTests\SimpleSketch\SimpleSketch\bin\Debug\SimpleSketch.exe.config
+E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.exe
+E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.pdb
+E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.csprojResolveAssemblyReference.cache
+E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.Form1.resources
+E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.Properties.Resources.resources
+E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.csproj.GenerateResource.Cache
