@@ -14,3 +14,5 @@ E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.csprojResolveA
 E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.Form1.resources
 E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.Properties.Resources.resources
 E:\TeamCityTests\SimpleSketch\SimpleSketch\obj\Debug\SimpleSketch.csproj.GenerateResource.Cache
+E:\TeamCityTests\SimpleSketch\SimpleSketch\bin\Debug\SimpleSketch.exe
+E:\TeamCityTests\SimpleSketch\SimpleSketch\bin\Debug\SimpleSketch.pdb
